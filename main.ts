@@ -5,7 +5,7 @@ load dependency
 "OmniBit": "file:../OmniBit"
 */
 
-//% color="#ECA40D" weight=20 icon="\uf11b"
+//% color="#ECA40D" weight=20 icon="\uf0d1"
 namespace OmniBit {
 
     const PCA9685_ADD = 0x40
